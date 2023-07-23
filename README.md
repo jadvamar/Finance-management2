@@ -29,10 +29,13 @@ then run following commands
 # Overview of Project
 
 ### 1)Dashboard
-![login](https://github.com/jadvamar/Finance-management2/assets/103949217/557a5ca2-f1eb-4fdb-9872-cd3bca65fefe)
+![login](https://github.com/jadvamar/Finance-management2/assets/103949217/484f2145-40ac-4ca9-8eb0-780cafb92e61)
+![login](https://github.com/jadvamar/Finance-management2/assets/103949217/f3412355-c66f-483d-8067-c509adc5b7d1)
+
 
 ### 2)Upload file add add password 
 ![login](https://github.com/jadvamar/Finance-management2/assets/103949217/bafdfa67-2044-4f3b-9435-fd3262bb7c7f)
+![login](https://github.com/jadvamar/Finance-management2/assets/103949217/557a5ca2-f1eb-4fdb-9872-cd3bca65fefe)
 
 ### 3)Link will be generated you can copy
 ![login](hhttps://github.com/jadvamar/Finance-management2/assets/103949217/de34e27a-84d3-498a-a6ba-eebdff6dd9ab)
@@ -41,6 +44,6 @@ then run following commands
 ![login](https://github.com/jadvamar/Finance-management2/assets/103949217/814923df-7485-4b35-a9b6-61e0f188b970)
 
 ### 5)File will be download
-![login](https://github.com/jadvamar/Finance-management2/assets/103949217/f3412355-c66f-483d-8067-c509adc5b7d1)
+
 ![login](https://github.com/jadvamar/Finance-management2/assets/103949217/e92911da-ccde-407b-98a3-53ed59b17aa7)
-![login](https://github.com/jadvamar/Finance-management2/assets/103949217/484f2145-40ac-4ca9-8eb0-780cafb92e61)
+
