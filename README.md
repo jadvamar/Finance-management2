@@ -38,12 +38,12 @@ then run following commands
 
 
 ### 3)Link will be generated you can copy
-![login](hhttps://github.com/jadvamar/Finance-management2/assets/103949217/de34e27a-84d3-498a-a6ba-eebdff6dd9ab)
+![login](https://github.com/jadvamar/Finance-management2/assets/103949217/814923df-7485-4b35-a9b6-61e0f188b970)
 ![login](https://github.com/jadvamar/Finance-management2/assets/103949217/357857fc-d791-482e-ae21-6166a5e8db85)
 
 
 ### 4)Enter password to download the file
-![login](https://github.com/jadvamar/Finance-management2/assets/103949217/814923df-7485-4b35-a9b6-61e0f188b970)
+
 
 ### 5)File will be download
 
