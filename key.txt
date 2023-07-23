@@ -1,5 +1,1 @@
-OT0zErvJdSUriGXi
 
-
-mongodb+srv://sryadav150902:OT0zErvJdSUriGXi
-@cluster0.ez64udt.mongodb.net/?retryWrites=true&w=majority
