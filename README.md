@@ -24,16 +24,6 @@ Additionally, the Expense Tracker leverages MongoDB to securely store your finan
 `Express`
 
     
-## How to  run on Your Machine
-
-download mongoDb on your PC
-Just Download this folder from github
-
-then run following commands 
-
-`npm i express mongoose multer ejs bcrypt dotenv`
-
-`npm i --save-dev nodemon`
 
 # Overview of Project
 
